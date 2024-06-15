@@ -1,5 +1,6 @@
 # Chefies Machine-Learning
 
+YOLOv8 and TFLite model that supports object detection of 5 Classes (Banana, Egg, Garlic, Shallot, Tomato). This is being made as a requirement to complete the Bangkit capstone project.
 ## Contributors ✨
 
 Thanks goes to these wonderful people 👀 :
