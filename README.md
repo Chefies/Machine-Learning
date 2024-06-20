@@ -30,6 +30,6 @@ import ultralytics
 ```
 2. Export ([read more](https://docs.ultralytics.com/modes/export/#export-formats))
 ```python
-!yolo export model=runs/detect/train/weights/best.pt format=tflite
+!yolo export model=best.pt format=tflite
 ```
 TFLite model is available on our releases.
